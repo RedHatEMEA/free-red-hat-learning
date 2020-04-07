@@ -2,11 +2,9 @@
 A collection of free of charge learning resources from Red Hat 
 
 .OpenShift
-+
 include::openshift.adoc[]
 
 .Ansible
-+
 include::ansible.adoc[]
 
 

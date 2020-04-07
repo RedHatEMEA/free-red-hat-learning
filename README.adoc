@@ -1,0 +1,22 @@
+= Free Red Hat Education
+A collection of free of charge learning resources from Red Hat 
+
+* OpenShift
++
+--
+include::openshift.adoc[]
+--
+
+* Ansible
++
+--
+include::ansible.adoc[]
+--
+
+
+List of contributors:
+* Sebastian Hetze (initial contributor)
+* Ingo Börnig
+* Thorsten Michels
+* Christian Jung
+* Petr Brusilovskij

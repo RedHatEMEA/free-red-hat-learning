@@ -1,17 +1,13 @@
 = Free Red Hat Education
 A collection of free of charge learning resources from Red Hat 
 
-* OpenShift
+.OpenShift
 +
---
 include::openshift.adoc[]
---
 
-* Ansible
+.Ansible
 +
---
 include::ansible.adoc[]
---
 
 
 List of contributors:

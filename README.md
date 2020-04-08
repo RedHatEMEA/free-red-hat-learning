@@ -10,8 +10,28 @@ https://learn.redhat.com/
 
 OpenShift
 ---------
-<details><summary><b> Red Hat Course Offerings
- </b></summary><p>
+<details><summary> Introduction
+ </summary><p>
+
+  * The OpenShift website
+https://www.openshift.com/
+
+  * Red Hat OpenShift Overview Page
+https://www.redhat.com/en/technologies/cloud-computing/openshift
+
+  * Red Hat OpenShift Product Page
+https://access.redhat.com/products/red-hat-openshift-container-platform#whatsnew
+
+  * OpenShift Life Cycle:
+https://access.redhat.com/support/policy/updates/openshift
+
+  * OpenShift Life Cycle (non current versions):
+https://access.redhat.com/support/policy/updates/openshift_noncurrent
+
+</p></details>
+
+<details><summary> Red Hat Course Offerings
+ </summary><p>
 
   * Deploying Containerized Applications Technical Overview (DO0080)
 https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview
@@ -19,96 +39,82 @@ https://www.redhat.com/en/services/training/do080-deploying-containerized-applic
   * Developing Cloud-Native Applications with Microservices Architectures (DO0092)
 https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures
 
-  * Red Hat OpenStack Technical Overview (CL010)
-https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview
-
-  * Virtualization and Infrastructure Migration Technical Overview (RH018)
-https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview
-
-  * Red Hat Enterprise Linux Technical Overview (RH024)
-https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview
-
-  * Red Hat Satellite Technical Overview (RH053)
-https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview
-
 </p></details>
 
-<details><summary>OpenShift Documentation</summary><p>
-  
-* OpenShift Channel on YouTube with of stuff from OpenShift Commons
-https://www.youtube.com/user/rhopenshift
+<details><summary> Labs
+ </summary><p>
 
-* The OpenShift website
-https://www.openshift.com/
-
-* The OpenShift documentation
-https://docs.openshift.com/
-
-* Red Hat OpenShift Product Page
-https://access.redhat.com/products/red-hat-openshift-container-platform#whatsnew
-
-* Red Hat OpenShift Overview Page
-https://www.redhat.com/en/technologies/cloud-computing/openshift
-
-* Red Hat OpenShift Documentation
-https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
-
-* OpenShift Life Cycle:
-https://access.redhat.com/support/policy/updates/openshift
-
-* OpenShift Life Cycle (non current versions):
-https://access.redhat.com/support/policy/updates/openshift_noncurrent
-
-* OpenShift Blog:
-https://blog.openshift.com/
-
-* Application Development in the Cloud Workshop
-https://appdevcloudworkshop.gitlab.io/#/
-
-* 10 Layers of Container Security Whitepaper
-https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper
-
-* We have the Container and Cloud Native Roadshow with Dev and Ops track as a continuing offering. This roadshow can be performed as a dedicated customer event, if the business case justifies.
+  * We have the Container and Cloud Native Roadshow with Dev and Ops track as a continuing offering. This roadshow can be performed as a dedicated customer event, if the business case justifies.
 https://www.redhat.com/en/events/containers-and-cloud-native-roadshow
 
-* Container and Cloud Native Roadshow Lab Deployment
+  * Container and Cloud Native Roadshow Lab Deployment
 OCP 4.1:
 https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2-infra/tree/ocp-4.1
 
 OCP 4.3: https://github.com/redhat-cop/agnosticd/tree/development/ansible/roles/ocp4-workload-ccnrd
 
-* Red Hat Container Services
+</p></details>
+
+<details><summary> Documentation
+ </summary><p>
+
+  * The OpenShift documentation
+https://docs.openshift.com/
+
+  * Red Hat OpenShift Documentation
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
+
+</p></details>
+
+<details><summary> Blogs
+ </summary><p>
+
+  * OpenShift Blog:
+https://blog.openshift.com/
+
+  * OpenShift Channel on YouTube with of stuff from OpenShift Commons
+https://www.youtube.com/user/rhopenshift
+
+</p></details>
+
+<details><summary> Related Information
+ </summary><p>
+
+  * Application Development in the Cloud Workshop
+https://appdevcloudworkshop.gitlab.io/#/
+
+  * 10 Layers of Container Security Whitepaper
+https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper
+
+  * Red Hat Container Services
 Container + Ecosystem Catalog:
 https://catalog.redhat.com/software/containers/explore
 
-* Container Support Policy:
+  * Container Support Policy:
 https://access.redhat.com/articles/2726611
 
-* Container Compatibility:
+  * Container Compatibility:
 https://access.redhat.com/support/policy/rhel-container-compatibility
 
-</p></details>
-
-<details><summary>Universal Base Image (UBI)</summary><p>
-  
-* Universal Base Image: 
+  * Universal Base Image: 
 https://access.redhat.com/support/offerings/developer/
 https://developers.redhat.com/products/rhel/ubi/
 
-* UBI Life Cycle:
+  * UBI Life Cycle:
 https://access.redhat.com/support/policy/updates/ubi
 https://access.redhat.com/support/policy/updates/containertools
 
-* Operatorhub:
+  * Operatorhub:
 https://operatorhub.io/
 
-* AI/ML on Openshift:
+  * AI/ML on Openshift:
 https://www.openshift.com/learn/topics/ai-ml
 
-* Open Data Hub:
+  * Open Data Hub:
 http://opendatahub.io/
 
 </p></details>
+
 
 <details><summary>Red Hat Middleware on Openshift</summary><p>
 
@@ -193,33 +199,182 @@ https://www.openshift-anwender.de/
 
 Ansible
 -------
-<details><summary>Introduction</summary><p>
+<details><summary> Introduction
+ </summary><p>
 
 </p></details>
 
-<details><summary>Red Hat Course Offerings</summary><p>
+<details><summary> Red Hat Course Offerings
+ </summary><p>
 
-* Ansible Essentials: Simplicity in Automation Technical Overview (DO007)
+  * Ansible Essentials: Simplicity in Automation Technical Overview (DO007)
 https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
 </p></details>
 
-<details><summary>Labs</summary><p>
+<details><summary> Labs
+ </summary><p>
 
 </p></details>
 
-<details><summary>Documentation</summary><p>
+<details><summary> Documentation
+ </summary><p>
 
 </p></details>
 
-<details><summary>Blogs</summary><p>
+<details><summary> Blogs
+ </summary><p>
 
 </p></details>
 
-<details><summary>Related Information</summary><p>
+<details><summary> Related Information
+ </summary><p>
 
 </p></details>
 
+
+Openstack
+---------
+<details><summary> Introduction
+ </summary><p>
+
+</p></details>
+
+<details><summary> Red Hat Course Offerings
+ </summary><p>
+
+  * Red Hat OpenStack Technical Overview (CL010)
+https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview
+
+</p></details>
+
+<details><summary> Labs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Documentation
+ </summary><p>
+
+</p></details>
+
+<details><summary> Blogs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Related Information
+ </summary><p>
+
+</p></details>
+
+
+Red Hat Enterprise Linux
+------------------------
+<details><summary> Introduction
+ </summary><p>
+
+</p></details>
+
+<details><summary> Red Hat Course Offerings
+ </summary><p>
+
+  * Red Hat Enterprise Linux Technical Overview (RH024)
+https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview
+
+</p></details>
+
+<details><summary> Labs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Documentation
+ </summary><p>
+
+</p></details>
+
+<details><summary> Blogs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Related Information
+ </summary><p>
+
+</p></details>
+
+
+Virtualization
+--------------
+<details><summary> Introduction
+ </summary><p>
+
+</p></details>
+
+<details><summary> Red Hat Course Offerings
+ </summary><p>
+
+  * Virtualization and Infrastructure Migration Technical Overview (RH018)
+https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview
+
+</p></details>
+
+<details><summary> Labs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Documentation
+ </summary><p>
+
+</p></details>
+
+<details><summary> Blogs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Related Information
+ </summary><p>
+
+</p></details>
+
+
+Red Hat Satellite
+-----------------
+<details><summary> Introduction
+ </summary><p>
+
+</p></details>
+
+<details><summary> Red Hat Course Offerings
+ </summary><p>
+
+  * Red Hat Satellite Technical Overview (RH053)
+https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview
+
+</p></details>
+
+<details><summary> Labs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Documentation
+ </summary><p>
+
+</p></details>
+
+<details><summary> Blogs
+ </summary><p>
+
+</p></details>
+
+<details><summary> Related Information
+ </summary><p>
+
+</p></details>
 
 Misc
 --------
@@ -333,26 +488,32 @@ List of contributors
 
 Template
 ---------
-<details><summary>Introduction</summary><p>
+<details><summary> Introduction
+ </summary><p>
 
 </p></details>
 
-<details><summary>Red Hat Course Offerings</summary><p>
+<details><summary> Red Hat Course Offerings
+ </summary><p>
 
 </p></details>
 
-<details><summary>Labs</summary><p>
+<details><summary> Labs
+ </summary><p>
 
 </p></details>
 
-<details><summary>Documentation</summary><p>
+<details><summary> Documentation
+ </summary><p>
 
 </p></details>
 
-<details><summary>Blogs</summary><p>
+<details><summary> Blogs
+ </summary><p>
 
 </p></details>
 
-<details><summary>Related Information</summary><p>
+<details><summary> Related Information
+ </summary><p>
 
 </p></details>

@@ -1,6 +1,8 @@
 # Free Red Hat Learning
 A collection of free of charge learning resources from Red Hat 
 
+Overview
+--------
 Red Hat Learning Community
 https://learn.redhat.com/
 
@@ -15,9 +17,6 @@ https://www.redhat.com/en/services/training/do080-deploying-containerized-applic
 
 * Developing Cloud-Native Applications with Microservices Architectures (DO0092)
 https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures
-
-* Ansible Essentials: Simplicity in Automation Technical Overview (DO007)
-https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
 * Red Hat OpenStack Technical Overview (CL010)
 https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview
@@ -158,32 +157,27 @@ https://access.redhat.com/documentation/en-us/red_hat_managed_integration/1/html
 <details><summary>OpenShift technologies</summary>
 <p>
 
-Red Hat Service Mesh:
+* Red Hat Service Mesh:
 https://developers.redhat.com/topics/service-mesh/
 
-
-Red Hat Serverless Technologies:
+* Red Hat Serverless Technologies:
 https://developers.redhat.com/topics/serverless-architecture/
 https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless
 
-
-OpenShift Reference Architectures:
+* OpenShift Reference Architectures:
 https://www.openshift.com/learn/resources/reference-architectures
 
-OpenShift Container Storage:
+* OpenShift Container Storage:
 https://www.openshift.com/products/container-storage/
 https://blog.openshift.com/introducing-openshift-container-storage-4-2/
 
-
-Red Hat CodeReady Workstations (Eclipse Che, Web-IDE on OpenShift):
+* Red Hat CodeReady Workstations (Eclipse Che, Web-IDE on OpenShift):
 https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces
 
-
-Red Hat CodeReady Containers (All-in-one OpenShift):
+* Red Hat CodeReady Containers (All-in-one OpenShift):
 https://developers.redhat.com/products/codeready-containers
 
-
-Application Migration Toolkit:
+* Application Migration Toolkit:
 https://developers.redhat.com/products/rhamt/overview
 
 </p>
@@ -192,19 +186,16 @@ https://developers.redhat.com/products/rhamt/overview
 <details><summary>Trainings, Labs and Meet-Ups</summary>
 <p>
 
-Red Hat DevOps Culture and Practice Enablement:
+* Red Hat DevOps Culture and Practice Enablement:
 https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement
 
-
-Red Hat Open Innovation Labs:
+* Red Hat Open Innovation Labs:
 https://www.redhat.com/en/services/consulting/open-innovation-labs
 
-
-OpenShift Commons (Worldwide Community):
+* OpenShift Commons (Worldwide Community):
 https://commons.openshift.org/
 
-
-OpenShift Anwenderforum (German Speaking Community):
+* OpenShift Anwenderforum (German Speaking Community):
 https://www.openshift-anwender.de/
 
 </p>
@@ -212,11 +203,52 @@ https://www.openshift-anwender.de/
 
 Ansible
 -------
+<details><summary>Introduction</summary>
+<p>
 
-Unsorted
+</p>
+</details>
+
+<details><summary>Red Hat Course Offerings</summary>
+<p>
+
+* Ansible Essentials: Simplicity in Automation Technical Overview (DO007)
+https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
+
+</p>
+</details>
+
+<details><summary>Labs</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Documentation</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Blogs</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Related Information</summary>
+<p>
+
+</p>
+</details>
+
+
+Misc
 --------
+<details><summary>Unsorted</summary>
+<p>
 
-There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda
+* There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda
 https://learn.openshift.com/
 https://www.katacoda.com/openshift
 
@@ -238,11 +270,12 @@ https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift
 Software Development mit OpenShift
 https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
 
+</p>
+</details>
 
+<details><summary>Outdated</summary>
+<p>
 
-
-
-Outdated
 Red Hat Developer Subscription includes OpenShift Container Development Kit
 https://developers.redhat.com/products/cdk/overview/
 Democentral OpenShift Install
@@ -289,6 +322,9 @@ https://www.youtube.com/watch?v=lMSJ6cmHDmI&t=0s&index=20&list=PLEGSLwUsxfEgT4XE
 TechRepublic Article: 5 key takeaways from Red Hat Summit 2018
 https://www.techrepublic.com/article/5-key-takeaways-from-red-hat-summit-2018/
 
+</p>
+</details>
+
 List of contributors:
 * Sebastian Hetze (initial contributor)
 * Ingo Börnig
@@ -296,7 +332,39 @@ List of contributors:
 * Christian Jung
 * Petr Brusilovskij
 
-<details><summary></summary>
+
+
+
+Template
+---------
+<details><summary>Introduction</summary><p>
+
+</p></details>
+
+<details><summary>Red Hat Course Offerings</summary><p>
+
+</p></details>
+
+<details><summary>Labs</summary>
 <p>
+
+</p>
+</details>
+
+<details><summary>Documentation</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Blogs</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Related Information</summary>
+<p>
+
 </p>
 </details>

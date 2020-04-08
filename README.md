@@ -1,4 +1,5 @@
-# Free Red Hat Learning
+Free Red Hat Learning
+=====================
 A collection of free of charge learning resources from Red Hat 
 
 Overview
@@ -9,7 +10,7 @@ https://learn.redhat.com/
 
 OpenShift
 ---------
-<details><summary>Red Hat Course Offerings</summary><p>
+<details><summary>*Red Hat Course Offerings*</summary><p>
 
   * Deploying Containerized Applications Technical Overview (DO0080)
 https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview
@@ -87,8 +88,7 @@ https://access.redhat.com/support/policy/rhel-container-compatibility
 
 </p></details>
 
-<details><summary>Universal Base Image (UBI)</summary>
-<p>
+<details><summary>Universal Base Image (UBI)</summary><p>
   
 * Universal Base Image: 
 https://access.redhat.com/support/offerings/developer/
@@ -107,11 +107,9 @@ https://www.openshift.com/learn/topics/ai-ml
 * Open Data Hub:
 http://opendatahub.io/
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Red Hat Middleware on Openshift</summary>
-<p>
+<details><summary>Red Hat Middleware on Openshift</summary><p>
 
 * Red Hat Runtimes:
 https://www.redhat.com/en/products/runtimes
@@ -128,11 +126,9 @@ https://www.redhat.com/en/technologies/jboss-middleware/amq
 * Red Hat AMQ Streams (Apache Kafka):
 https://www.redhat.com/en/resources/amq-streams-datasheet
 
-</p>
-</details>
+</p></details>
   
-<details><summary>OpenShift Managed Options</summary>
-<p>
+<details><summary>OpenShift Managed Options</summary><p>
 
 * Openshift Online (shared infrastructure):
 https://www.openshift.com/products/online/
@@ -149,11 +145,9 @@ https://www.ibm.com/cloud/openshift
 * Red Hat Managed Integration (RHMI):
 https://access.redhat.com/documentation/en-us/red_hat_managed_integration/1/html/getting_started/concept-explanation-getting-started
 
-</p>
-</details>
+</p></details>
 
-<details><summary>OpenShift technologies</summary>
-<p>
+<details><summary>OpenShift technologies</summary><p>
 
 * Red Hat Service Mesh:
 https://developers.redhat.com/topics/service-mesh/
@@ -178,11 +172,9 @@ https://developers.redhat.com/products/codeready-containers
 * Application Migration Toolkit:
 https://developers.redhat.com/products/rhamt/overview
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Trainings, Labs and Meet-Ups</summary>
-<p>
+<details><summary>Trainings, Labs and Meet-Ups</summary><p>
 
 * Red Hat DevOps Culture and Practice Enablement:
 https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement
@@ -196,55 +188,41 @@ https://commons.openshift.org/
 * OpenShift Anwenderforum (German Speaking Community):
 https://www.openshift-anwender.de/
 
-</p>
-</details>
+</p></details>
 
 Ansible
 -------
-<details><summary>Introduction</summary>
-<p>
+<details><summary>Introduction</summary><p>
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Red Hat Course Offerings</summary>
-<p>
+<details><summary>Red Hat Course Offerings</summary><p>
 
 * Ansible Essentials: Simplicity in Automation Technical Overview (DO007)
 https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Labs</summary>
-<p>
+<details><summary>Labs</summary><p>
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Documentation</summary>
-<p>
+<details><summary>Documentation</summary><p>
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Blogs</summary>
-<p>
+<details><summary>Blogs</summary><p>
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Related Information</summary>
-<p>
+<details><summary>Related Information</summary><p>
 
-</p>
-</details>
+</p></details>
 
 
 Misc
 --------
-<details><summary>Unsorted</summary>
-<p>
+<details><summary>Unsorted</summary><p>
 
 * There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda
 https://learn.openshift.com/
@@ -268,62 +246,81 @@ https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift
 Software Development mit OpenShift
 https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Outdated</summary>
-<p>
+<details><summary>Outdated</summary><p>
 
 Red Hat Developer Subscription includes OpenShift Container Development Kit
 https://developers.redhat.com/products/cdk/overview/
+
 Democentral OpenShift Install
 https://github.com/redhatdemocentral/ocp-install-demo
+
 Democentral CoolStore Demo
 https://github.com/redhatdemocentral/rhcs-coolstore-demo
+
 Video Recordings from Red Hat Summit 2018
 OpenShift roadmap: You won't believe what's next
 https://www.youtube.com/watch?v=1AelNjx6BB4&t=0s&index=36&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Container Linux and Red Hat Enterprise Linux: The road ahead
 https://www.youtube.com/watch?v=LJOm4JbF4eQ&t=0s&index=47&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Container Native Storage and Red Hat Gluster Roadmap
 https://www.youtube.com/watch?v=XipQHFYl4OU&t=0s&index=1&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 The Day-2 guide to successful management of applications on Red Hat OpenShift
 https://www.youtube.com/watch?v=KCnrZ8WwEKE&t=0s&index=15&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 OpenShift for Operations
 https://www.youtube.com/watch?v=nBXALsqs1RA&t=0s&index=94&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Next-generation tools for container techology
 https://www.youtube.com/watch?v=msdaf3lBOn0&t=0s&index=23&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Best practices for OpenShift HA deployment field experience
 https://www.youtube.com/watch?v=Uw9juxXVHFE&t=0s&index=30&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Network security for apps on OpenShift
 https://www.youtube.com/watch?v=dkPYdSs4EaA&t=0s&index=33&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Kubernetes and the platform of the future
 https://www.youtube.com/watch?v=YAFKlOB8vBw&t=0s&index=40&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Intelligent applications on OpenShift from prototype to production
 https://www.youtube.com/watch?v=ofm9cv18geo&t=0s&index=49&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Automated legacy app containerization with Red Hat OpenShift & Red Hat Application Migration Toolkit
 https://www.youtube.com/watch?v=N2vuiQszvsI&t=0s&index=62&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Introducing OpenShift.io end-to-end cloud-native development made easy
 https://www.youtube.com/watch?v=UxRDHpz5pg0&t=0s&index=63&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 5 new high-performance features in Red Hat OpenShift
 https://www.youtube.com/watch?v=jQiunrnlna8&t=0s&index=67&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 The DevOps opportunity: Balancing security and velocity
 https://www.youtube.com/watch?v=yhcXZ1bjsuk&t=0s&index=82&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Culture-as-a-Service: Managing teams building microservices
 https://www.youtube.com/watch?v=m0DMZRTKGe4&t=0s&index=85&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 Eclipse Che for developer teams on Red Hat OpenShift
 https://www.youtube.com/watch?v=UZSKlG0wkGc&t=0s&index=89&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 OpenShift service mesh on multicloud environments
 https://www.youtube.com/watch?v=3Etglg2lrGo&t=0s&index=101&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 AppAgile from Deutsche Telekom: Managed cloud sercices on OpenShift
 https://www.youtube.com/watch?v=lMSJ6cmHDmI&t=0s&index=20&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
+
 TechRepublic Article: 5 key takeaways from Red Hat Summit 2018
 https://www.techrepublic.com/article/5-key-takeaways-from-red-hat-summit-2018/
 
-</p>
-</details>
+</p></details>
 
-List of contributors:
+List of contributors
+--------------------
 * Sebastian Hetze (initial contributor)
 * Ingo Börnig
 * Thorsten Michels
@@ -343,26 +340,18 @@ Template
 
 </p></details>
 
-<details><summary>Labs</summary>
-<p>
+<details><summary>Labs</summary><p>
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Documentation</summary>
-<p>
+<details><summary>Documentation</summary><p>
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Blogs</summary>
-<p>
+<details><summary>Blogs</summary><p>
 
-</p>
-</details>
+</p></details>
 
-<details><summary>Related Information</summary>
-<p>
+<details><summary>Related Information</summary><p>
 
-</p>
-</details>
+</p></details>

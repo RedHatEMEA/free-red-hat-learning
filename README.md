@@ -2,10 +2,13 @@ Free Red Hat Learning
 =====================
 A collection of free of charge learning resources from Red Hat 
 
+
+
 Overview
 --------
 Red Hat Learning Community
 https://learn.redhat.com/
+
 
 
 OpenShift
@@ -28,7 +31,15 @@ https://access.redhat.com/support/policy/updates/openshift
   * OpenShift Life Cycle (non current versions):
 https://access.redhat.com/support/policy/updates/openshift_noncurrent
 
+  * German OpenShift Anwender Community Offerings
+Erste Schritte mit OpenShift
+https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift/
+
+  * Software Development mit OpenShift
+https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
+
 </p></details>
+
 
 <details><summary> Red Hat Course Offerings
  </summary><p>
@@ -41,11 +52,19 @@ https://www.redhat.com/en/services/training/do092-developing-cloud-native-applic
 
 </p></details>
 
+
 <details><summary> Labs
  </summary><p>
 
-  * We have the Container and Cloud Native Roadshow with Dev and Ops track as a continuing offering. This roadshow can be performed as a dedicated customer event, if the business case justifies.
-https://www.redhat.com/en/events/containers-and-cloud-native-roadshow
+  * There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda
+https://learn.openshift.com/
+https://www.katacoda.com/openshift
+
+  * Red Hat offers OpenShift trial with OpenShift Online (for developers) and a free test drive for operators
+https://www.openshift.com/trial/
+
+  * Kubernetes by Example
+http://kubernetesbyexample.com/
 
   * Container and Cloud Native Roadshow Lab Deployment
 OCP 4.1:
@@ -53,7 +72,11 @@ https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2-infra/tr
 
 OCP 4.3: https://github.com/redhat-cop/agnosticd/tree/development/ansible/roles/ocp4-workload-ccnrd
 
+  * We have the Container and Cloud Native Roadshow with Dev and Ops track as a continuing offering. This roadshow can be performed as a dedicated customer event, if the business case justifies.
+https://www.redhat.com/en/events/containers-and-cloud-native-roadshow
+
 </p></details>
+
 
 <details><summary> Documentation
  </summary><p>
@@ -66,6 +89,7 @@ https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
 
 </p></details>
 
+
 <details><summary> Blogs
  </summary><p>
 
@@ -76,6 +100,7 @@ https://blog.openshift.com/
 https://www.youtube.com/user/rhopenshift
 
 </p></details>
+
 
 <details><summary> Related Information
  </summary><p>
@@ -113,89 +138,92 @@ https://www.openshift.com/learn/topics/ai-ml
   * Open Data Hub:
 http://opendatahub.io/
 
+  * Red Hat DevOps Culture and Practice Enablement:
+https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement
+
+  * Red Hat Open Innovation Labs:
+https://www.redhat.com/en/services/consulting/open-innovation-labs
+
+  * OpenShift Commons (Worldwide Community):
+https://commons.openshift.org/
+
+  * OpenShift Anwenderforum (German Speaking Community):
+https://www.openshift-anwender.de/
+
 </p></details>
 
 
-<details><summary>Red Hat Middleware on Openshift</summary><p>
+<details><summary>Red Hat Middleware on Openshift
+ </summary><p>
 
-* Red Hat Runtimes:
+  * Red Hat Runtimes:
 https://www.redhat.com/en/products/runtimes
 
-* Red Hat Integration:
+  * Red Hat Integration:
 https://www.redhat.com/en/products/integration
 
-* Red Hat Business Rules and Automation:
+  * Red Hat Business Rules and Automation:
 https://www.redhat.com/en/products/process-automation
 
-* Red Hat Messaging:
+  * Red Hat Messaging:
 https://www.redhat.com/en/technologies/jboss-middleware/amq
 
-* Red Hat AMQ Streams (Apache Kafka):
+  * Red Hat AMQ Streams (Apache Kafka):
 https://www.redhat.com/en/resources/amq-streams-datasheet
 
 </p></details>
-  
-<details><summary>OpenShift Managed Options</summary><p>
 
-* Openshift Online (shared infrastructure):
+
+<details><summary>OpenShift Managed Options
+ </summary><p>
+
+  * Openshift Online (shared infrastructure):
 https://www.openshift.com/products/online/
 
-* OpenShift Dedicated:
+  * OpenShift Dedicated:
 https://www.openshift.com/products/dedicated/
 
-* Azure Red Hat OpenShift (with Microsoft):
+  * Azure Red Hat OpenShift (with Microsoft):
 https://www.openshift.com/products/azure-openshift
 
-* Managed OpenShift by IBM:
+  * Managed OpenShift by IBM:
 https://www.ibm.com/cloud/openshift
 
-* Red Hat Managed Integration (RHMI):
+  * Red Hat Managed Integration (RHMI):
 https://access.redhat.com/documentation/en-us/red_hat_managed_integration/1/html/getting_started/concept-explanation-getting-started
 
 </p></details>
 
-<details><summary>OpenShift technologies</summary><p>
 
-* Red Hat Service Mesh:
+<details><summary>OpenShift technologies
+ </summary><p>
+
+  * Red Hat Service Mesh:
 https://developers.redhat.com/topics/service-mesh/
 
-* Red Hat Serverless Technologies:
+  * Red Hat Serverless Technologies:
 https://developers.redhat.com/topics/serverless-architecture/
 https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless
 
-* OpenShift Reference Architectures:
+  * OpenShift Reference Architectures:
 https://www.openshift.com/learn/resources/reference-architectures
 
-* OpenShift Container Storage:
+  * OpenShift Container Storage:
 https://www.openshift.com/products/container-storage/
 https://blog.openshift.com/introducing-openshift-container-storage-4-2/
 
-* Red Hat CodeReady Workstations (Eclipse Che, Web-IDE on OpenShift):
+  * Red Hat CodeReady Workstations (Eclipse Che, Web-IDE on OpenShift):
 https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces
 
-* Red Hat CodeReady Containers (All-in-one OpenShift):
+  * Red Hat CodeReady Containers (All-in-one OpenShift):
 https://developers.redhat.com/products/codeready-containers
 
-* Application Migration Toolkit:
+  * Application Migration Toolkit:
 https://developers.redhat.com/products/rhamt/overview
 
 </p></details>
 
-<details><summary>Trainings, Labs and Meet-Ups</summary><p>
 
-* Red Hat DevOps Culture and Practice Enablement:
-https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement
-
-* Red Hat Open Innovation Labs:
-https://www.redhat.com/en/services/consulting/open-innovation-labs
-
-* OpenShift Commons (Worldwide Community):
-https://commons.openshift.org/
-
-* OpenShift Anwenderforum (German Speaking Community):
-https://www.openshift-anwender.de/
-
-</p></details>
 
 Ansible
 -------
@@ -203,6 +231,7 @@ Ansible
  </summary><p>
 
 </p></details>
+
 
 <details><summary> Red Hat Course Offerings
  </summary><p>
@@ -212,25 +241,30 @@ https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-
 
 </p></details>
 
+
 <details><summary> Labs
  </summary><p>
 
 </p></details>
+
 
 <details><summary> Documentation
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Blogs
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Related Information
  </summary><p>
 
 </p></details>
+
 
 
 Openstack
@@ -240,6 +274,7 @@ Openstack
 
 </p></details>
 
+
 <details><summary> Red Hat Course Offerings
  </summary><p>
 
@@ -248,25 +283,30 @@ https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-ov
 
 </p></details>
 
+
 <details><summary> Labs
  </summary><p>
 
 </p></details>
+
 
 <details><summary> Documentation
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Blogs
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Related Information
  </summary><p>
 
 </p></details>
+
 
 
 Red Hat Enterprise Linux
@@ -276,6 +316,7 @@ Red Hat Enterprise Linux
 
 </p></details>
 
+
 <details><summary> Red Hat Course Offerings
  </summary><p>
 
@@ -284,25 +325,30 @@ https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overvi
 
 </p></details>
 
+
 <details><summary> Labs
  </summary><p>
 
 </p></details>
+
 
 <details><summary> Documentation
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Blogs
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Related Information
  </summary><p>
 
 </p></details>
+
 
 
 Virtualization
@@ -312,6 +358,7 @@ Virtualization
 
 </p></details>
 
+
 <details><summary> Red Hat Course Offerings
  </summary><p>
 
@@ -320,25 +367,30 @@ https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastruct
 
 </p></details>
 
+
 <details><summary> Labs
  </summary><p>
 
 </p></details>
+
 
 <details><summary> Documentation
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Blogs
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Related Information
  </summary><p>
 
 </p></details>
+
 
 
 Red Hat Satellite
@@ -348,6 +400,7 @@ Red Hat Satellite
 
 </p></details>
 
+
 <details><summary> Red Hat Course Offerings
  </summary><p>
 
@@ -356,54 +409,34 @@ https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-ov
 
 </p></details>
 
+
 <details><summary> Labs
  </summary><p>
 
 </p></details>
+
 
 <details><summary> Documentation
  </summary><p>
 
 </p></details>
 
+
 <details><summary> Blogs
  </summary><p>
 
 </p></details>
+
 
 <details><summary> Related Information
  </summary><p>
 
 </p></details>
 
+
+
 Misc
 --------
-<details><summary>Unsorted</summary><p>
-
-* There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda
-https://learn.openshift.com/
-https://www.katacoda.com/openshift
-
-
-Red Hat offers OpenShift trial with OpenShift Online (for developers) and a free test drive for operators
-https://www.openshift.com/trial/
-
-
-Kubernetes by Example
-http://kubernetesbyexample.com/
-
-
-
-German OpenShift Anwender Community Offerings
-Erste Schritte mit OpenShift
-https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift/
-
-
-Software Development mit OpenShift
-https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
-
-</p></details>
-
 <details><summary>Outdated</summary><p>
 
 Red Hat Developer Subscription includes OpenShift Container Development Kit
@@ -475,6 +508,9 @@ https://www.techrepublic.com/article/5-key-takeaways-from-red-hat-summit-2018/
 
 </p></details>
 
+
+---
+
 List of contributors
 --------------------
 * Sebastian Hetze (initial contributor)
@@ -482,38 +518,3 @@ List of contributors
 * Thorsten Michels
 * Christian Jung
 * Petr Brusilovskij
-
-
-
-
-Template
----------
-<details><summary> Introduction
- </summary><p>
-
-</p></details>
-
-<details><summary> Red Hat Course Offerings
- </summary><p>
-
-</p></details>
-
-<details><summary> Labs
- </summary><p>
-
-</p></details>
-
-<details><summary> Documentation
- </summary><p>
-
-</p></details>
-
-<details><summary> Blogs
- </summary><p>
-
-</p></details>
-
-<details><summary> Related Information
- </summary><p>
-
-</p></details>

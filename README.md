@@ -10,7 +10,8 @@ https://learn.redhat.com/
 
 OpenShift
 ---------
-###<details><summary>Red Hat Course Offerings</summary><p>
+<details><summary><b> Red Hat Course Offerings
+ </b></summary><p>
 
   * Deploying Containerized Applications Technical Overview (DO0080)
 https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview

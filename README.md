@@ -9,31 +9,29 @@ https://learn.redhat.com/
 
 OpenShift
 ---------
-<details><summary>Red Hat Course Offerings</summary>
-<p>
+<details><summary>Red Hat Course Offerings</summary><p>
 
-* Deploying Containerized Applications Technical Overview (DO0080)
+  * Deploying Containerized Applications Technical Overview (DO0080)
 https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview
 
-* Developing Cloud-Native Applications with Microservices Architectures (DO0092)
+  * Developing Cloud-Native Applications with Microservices Architectures (DO0092)
 https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures
 
-* Red Hat OpenStack Technical Overview (CL010)
+  * Red Hat OpenStack Technical Overview (CL010)
 https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview
 
-* Virtualization and Infrastructure Migration Technical Overview (RH018)
+  * Virtualization and Infrastructure Migration Technical Overview (RH018)
 https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview
 
-* Red Hat Enterprise Linux Technical Overview (RH024)
+  * Red Hat Enterprise Linux Technical Overview (RH024)
 https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview
 
-* Red Hat Satellite Technical Overview (RH053)
+  * Red Hat Satellite Technical Overview (RH053)
 https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview
-</p>
-</details>
 
-<details><summary>OpenShift Documentation</summary>
-<p>
+</p></details>
+
+<details><summary>OpenShift Documentation</summary><p>
   
 * OpenShift Channel on YouTube with of stuff from OpenShift Commons
 https://www.youtube.com/user/rhopenshift
@@ -86,8 +84,8 @@ https://access.redhat.com/articles/2726611
 
 * Container Compatibility:
 https://access.redhat.com/support/policy/rhel-container-compatibility
-</p>
-</details>
+
+</p></details>
 
 <details><summary>Universal Base Image (UBI)</summary>
 <p>

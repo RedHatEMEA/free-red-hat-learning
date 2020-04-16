@@ -50,6 +50,9 @@ https://www.redhat.com/en/services/training/do080-deploying-containerized-applic
   * Developing Cloud-Native Applications with Microservices Architectures (DO0092)
 https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures
 
+  * Introduction to OpenShift Applications (DO101) **Limited until June 30, 2020**
+https://www.redhat.com/en/engage/do101-introduction-openshift-s-202004060642
+
 </p></details>
 
 

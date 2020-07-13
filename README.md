@@ -97,10 +97,13 @@ https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
  </summary><p>
 
   * OpenShift Blog:
-https://blog.openshift.com/
+  https://blog.openshift.com/
 
   * OpenShift Channel on YouTube with of stuff from OpenShift Commons
-https://www.youtube.com/user/rhopenshift
+  https://www.youtube.com/user/rhopenshift
+
+  * [GER] OpenShift Installation auf Hetzner
+  https://m.twitch.tv/videos/671473695
 
 </p></details>
 

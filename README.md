@@ -17,26 +17,26 @@ OpenShift
  </summary><p>
 
   * The OpenShift website
-https://www.openshift.com/
+  https://www.openshift.com/
 
   * Red Hat OpenShift Overview Page
-https://www.redhat.com/en/technologies/cloud-computing/openshift
+  https://www.redhat.com/en/technologies/cloud-computing/openshift
 
   * Red Hat OpenShift Product Page
-https://access.redhat.com/products/red-hat-openshift-container-platform#whatsnew
+  https://access.redhat.com/products/red-hat-openshift-container-platform#whatsnew
 
   * OpenShift Life Cycle:
-https://access.redhat.com/support/policy/updates/openshift
+  https://access.redhat.com/support/policy/updates/openshift
 
   * OpenShift Life Cycle (non current versions):
-https://access.redhat.com/support/policy/updates/openshift_noncurrent
+  https://access.redhat.com/support/policy/updates/openshift_noncurrent
 
   * German OpenShift Anwender Community Offerings
-Erste Schritte mit OpenShift
-https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift/
+  Erste Schritte mit OpenShift
+  https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift/
 
   * Software Development mit OpenShift
-https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
+  https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
 
 </p></details>
 
@@ -45,13 +45,13 @@ https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-ope
  </summary><p>
 
   * Deploying Containerized Applications Technical Overview (DO0080)
-https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview
+  https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview
 
   * Developing Cloud-Native Applications with Microservices Architectures (DO0092)
-https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures
+  https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures
 
   * Introduction to OpenShift Applications (DO101) **Limited until June 30, 2020**
-https://www.redhat.com/en/engage/do101-introduction-openshift-s-202004060642
+  https://www.redhat.com/en/engage/do101-introduction-openshift-s-202004060642
 
 </p></details>
 
@@ -60,23 +60,23 @@ https://www.redhat.com/en/engage/do101-introduction-openshift-s-202004060642
  </summary><p>
 
   * There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda
-https://learn.openshift.com/
-https://www.katacoda.com/openshift
+  https://learn.openshift.com/
+  https://www.katacoda.com/openshift
 
   * Red Hat offers OpenShift trial with OpenShift Online (for developers) and a free test drive for operators
-https://www.openshift.com/trial/
+  https://www.openshift.com/trial/
 
   * Kubernetes by Example
-http://kubernetesbyexample.com/
+  http://kubernetesbyexample.com/
 
   * Container and Cloud Native Roadshow Lab Deployment
-OCP 4.1:
-https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2-infra/tree/ocp-4.1
+  OCP 4.1:
+  https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2-infra/tree/ocp-4.1
 
-OCP 4.3: https://github.com/redhat-cop/agnosticd/tree/development/ansible/roles/ocp4-workload-ccnrd
+  OCP 4.3: https://github.com/redhat-cop/agnosticd/tree/development/ansible/roles/ocp4-workload-ccnrd
 
   * We have the Container and Cloud Native Roadshow with Dev and Ops track as a continuing offering. This roadshow can be performed as a dedicated customer event, if the business case justifies.
-https://www.redhat.com/en/events/containers-and-cloud-native-roadshow
+  https://www.redhat.com/en/events/containers-and-cloud-native-roadshow
 
 </p></details>
 
@@ -85,10 +85,10 @@ https://www.redhat.com/en/events/containers-and-cloud-native-roadshow
  </summary><p>
 
   * The OpenShift documentation
-https://docs.openshift.com/
+  https://docs.openshift.com/
 
   * Red Hat OpenShift Documentation
-https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
+  https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
 
 </p></details>
 
@@ -112,49 +112,49 @@ https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
  </summary><p>
 
   * Application Development in the Cloud Workshop
-https://appdevcloudworkshop.gitlab.io/#/
+  https://appdevcloudworkshop.gitlab.io/#/
 
   * 10 Layers of Container Security Whitepaper
-https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper
+  https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper
 
   * Red Hat Container Services
-Container + Ecosystem Catalog:
-https://catalog.redhat.com/software/containers/explore
+  Container + Ecosystem Catalog:
+  https://catalog.redhat.com/software/containers/explore
 
   * Container Support Policy:
-https://access.redhat.com/articles/2726611
+  https://access.redhat.com/articles/2726611
 
   * Container Compatibility:
-https://access.redhat.com/support/policy/rhel-container-compatibility
+  https://access.redhat.com/support/policy/rhel-container-compatibility
 
   * Universal Base Image: 
-https://access.redhat.com/support/offerings/developer/
-https://developers.redhat.com/products/rhel/ubi/
+  https://access.redhat.com/support/offerings/developer/
+  https://developers.redhat.com/products/rhel/ubi/
 
   * UBI Life Cycle:
-https://access.redhat.com/support/policy/updates/ubi
-https://access.redhat.com/support/policy/updates/containertools
+  https://access.redhat.com/support/policy/updates/ubi
+  https://access.redhat.com/support/policy/updates/containertools
 
   * Operatorhub:
-https://operatorhub.io/
+  https://operatorhub.io/
 
   * AI/ML on Openshift:
-https://www.openshift.com/learn/topics/ai-ml
+  https://www.openshift.com/learn/topics/ai-ml
 
   * Open Data Hub:
-http://opendatahub.io/
+  http://opendatahub.io/
 
   * Red Hat DevOps Culture and Practice Enablement:
-https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement
+  https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement
 
   * Red Hat Open Innovation Labs:
-https://www.redhat.com/en/services/consulting/open-innovation-labs
+  https://www.redhat.com/en/services/consulting/open-innovation-labs
 
   * OpenShift Commons (Worldwide Community):
-https://commons.openshift.org/
+  https://commons.openshift.org/
 
   * OpenShift Anwenderforum (German Speaking Community):
-https://www.openshift-anwender.de/
+  https://www.openshift-anwender.de/
 
 </p></details>
 
@@ -163,19 +163,19 @@ https://www.openshift-anwender.de/
  </summary><p>
 
   * Red Hat Runtimes:
-https://www.redhat.com/en/products/runtimes
+  https://www.redhat.com/en/products/runtimes
 
   * Red Hat Integration:
-https://www.redhat.com/en/products/integration
+  https://www.redhat.com/en/products/integration
 
   * Red Hat Business Rules and Automation:
-https://www.redhat.com/en/products/process-automation
+  https://www.redhat.com/en/products/process-automation
 
   * Red Hat Messaging:
-https://www.redhat.com/en/technologies/jboss-middleware/amq
+  https://www.redhat.com/en/technologies/jboss-middleware/amq
 
   * Red Hat AMQ Streams (Apache Kafka):
-https://www.redhat.com/en/resources/amq-streams-datasheet
+  https://www.redhat.com/en/resources/amq-streams-datasheet
 
 </p></details>
 
@@ -184,19 +184,19 @@ https://www.redhat.com/en/resources/amq-streams-datasheet
  </summary><p>
 
   * Openshift Online (shared infrastructure):
-https://www.openshift.com/products/online/
+  https://www.openshift.com/products/online/
 
   * OpenShift Dedicated:
-https://www.openshift.com/products/dedicated/
+  https://www.openshift.com/products/dedicated/
 
   * Azure Red Hat OpenShift (with Microsoft):
-https://www.openshift.com/products/azure-openshift
+  https://www.openshift.com/products/azure-openshift
 
   * Managed OpenShift by IBM:
-https://www.ibm.com/cloud/openshift
+  https://www.ibm.com/cloud/openshift
 
   * Red Hat Managed Integration (RHMI):
-https://access.redhat.com/documentation/en-us/red_hat_managed_integration/1/html/getting_started/concept-explanation-getting-started
+  https://access.redhat.com/documentation/en-us/red_hat_managed_integration/1/html/getting_started/concept-explanation-getting-started
 
 </p></details>
 
@@ -205,27 +205,27 @@ https://access.redhat.com/documentation/en-us/red_hat_managed_integration/1/html
  </summary><p>
 
   * Red Hat Service Mesh:
-https://developers.redhat.com/topics/service-mesh/
+  https://developers.redhat.com/topics/service-mesh/
 
   * Red Hat Serverless Technologies:
-https://developers.redhat.com/topics/serverless-architecture/
-https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless
+  https://developers.redhat.com/topics/serverless-architecture/
+  https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless
 
   * OpenShift Reference Architectures:
-https://www.openshift.com/learn/resources/reference-architectures
+  https://www.openshift.com/learn/resources/reference-architectures
 
   * OpenShift Container Storage:
-https://www.openshift.com/products/container-storage/
-https://blog.openshift.com/introducing-openshift-container-storage-4-2/
+  https://www.openshift.com/products/container-storage/
+  https://blog.openshift.com/introducing-openshift-container-storage-4-2/
 
   * Red Hat CodeReady Workstations (Eclipse Che, Web-IDE on OpenShift):
-https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces
+  https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces
 
   * Red Hat CodeReady Containers (All-in-one OpenShift):
-https://developers.redhat.com/products/codeready-containers
+  https://developers.redhat.com/products/codeready-containers
 
   * Application Migration Toolkit:
-https://developers.redhat.com/products/rhamt/overview
+  https://developers.redhat.com/products/rhamt/overview
 
 </p></details>
 
@@ -243,7 +243,7 @@ Ansible
  </summary><p>
 
   * Ansible Essentials: Simplicity in Automation Technical Overview (DO007)
-https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
+  https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
 </p></details>
 
@@ -285,7 +285,7 @@ Openstack
  </summary><p>
 
   * Red Hat OpenStack Technical Overview (CL010)
-https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview
+  https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview
 
 </p></details>
 
@@ -327,7 +327,7 @@ Red Hat Enterprise Linux
  </summary><p>
 
   * Red Hat Enterprise Linux Technical Overview (RH024)
-https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview
+  https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview
 
 </p></details>
 
@@ -369,7 +369,7 @@ Virtualization
  </summary><p>
 
   * Virtualization and Infrastructure Migration Technical Overview (RH018)
-https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview
+  https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview
 
 </p></details>
 
@@ -411,7 +411,7 @@ Red Hat Satellite
  </summary><p>
 
   * Red Hat Satellite Technical Overview (RH053)
-https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview
+  https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview
 
 </p></details>
 
@@ -524,3 +524,4 @@ List of contributors
 * Thorsten Michels
 * Christian Jung
 * Petr Brusilovskij
+* Joachim Schröder

@@ -13,37 +13,6 @@ General Learning Ressouces
 
 Container / Kubernetes / Microservices / OpenShift
 ---------
-<details><summary> Introduction OpenShift
- </summary><p>
-
-  * Every Red Hat Developer Subscription includes an individual OpenShift Subscription (free of charge)<br>
-  https://developers.redhat.com/
-
-  * The OpenShift website<br>
-  https://www.openshift.com/
-
-  * Red Hat OpenShift Overview Page<br>
-  https://www.redhat.com/en/technologies/cloud-computing/openshift
-
-  * Red Hat OpenShift Product Page<br>
-  https://access.redhat.com/products/red-hat-openshift-container-platform#whatsnew
-
-  * OpenShift Life Cycle:<br>
-  https://access.redhat.com/support/policy/updates/openshift
-
-  * OpenShift Life Cycle (non current versions):<br>
-  https://access.redhat.com/support/policy/updates/openshift_noncurrent
-
-  * German OpenShift Anwender Community Offerings
-    * Erste Schritte mit OpenShift<br>
-    https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift/
-
-    * Software Development mit OpenShift<br>
-    https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
-
-</p></details>
-
-
 <details><summary> Red Hat Course Offerings
  </summary><p>
 
@@ -82,19 +51,27 @@ Container / Kubernetes / Microservices / OpenShift
 </p></details>
 
 
-<details><summary> Documentation
+<details><summary> Free eBooks
  </summary><p>
 
-  * The OpenShift documentation<br>
-  https://docs.openshift.com/
+  A complete list of free eBook offerings is available here: https://developers.redhat.com/ebooks
 
-  * Red Hat OpenShift Documentation<br>
-  https://access.redhat.com/documentation/en-us/openshift_container_platform
+  * Kubernetes Patterns - Reusable Elements for Designing Cloud-Native Applications<br>
+  https://developers.redhat.com/books/kubernetes-patterns
+
+  * Microservices for Java Developers<br>
+  https://developers.redhat.com/books/microservices-java-developers-hands-introduction-frameworks-and-containers
+
+  * DevOps with OpenShift - Cloud Deployments Made Easy<br>
+  https://developers.redhat.com/books/devops-openshift-cloud-deployments-made-easy
+
+  * Knative Cookbook - Building Effective Serverless Applications with Kubernetes and OpenShift<br>
+  https://developers.redhat.com/books/knative-cookbook
 
 </p></details>
 
 
-<details><summary> Blogs
+<details><summary> OpenShift Blogs
  </summary><p>
 
   * OpenShift Blog:<br>
@@ -109,43 +86,68 @@ Container / Kubernetes / Microservices / OpenShift
 </p></details>
 
 
-<details><summary> Related Information
+<details><summary> OpenShift Community Offerings
  </summary><p>
 
   * OpenShift Commons (Worldwide Community):<br>
   https://commons.openshift.org/
 
-  * OpenShift Anwenderforum (German Speaking Community):<br>
+  * German OpenShift Anwender Community<br>
   https://www.openshift-anwender.de/
+
+    * Erste Schritte mit OpenShift<br>
+    https://www.openshift-anwender.de/was-ist-openshift/erste-schritte-mit-openshift/
+
+    * Software Development mit OpenShift<br>
+    https://www.openshift-anwender.de/was-ist-openshift/software-development-mit-openshift/
+
+</p></details>
+
+
+<details><summary> Introduction OpenShift
+ </summary><p>
+
+  * Every Red Hat Developer Subscription includes an individual OpenShift Subscription (free of charge)<br>
+  https://developers.redhat.com/
+
+  * The OpenShift website<br>
+  https://www.openshift.com/
+
+  * Red Hat OpenShift Overview Page<br>
+  https://www.redhat.com/en/technologies/cloud-computing/openshift
+
+  * Red Hat OpenShift Product Page<br>
+  https://access.redhat.com/products/red-hat-openshift-container-platform#whatsnew
+
+  * OpenShift Life Cycle:<br>
+  https://access.redhat.com/support/policy/updates/openshift
+
+  * OpenShift Life Cycle (non current versions):<br>
+  https://access.redhat.com/support/policy/updates/openshift_noncurrent
+
+</p></details>
+
+
+<details><summary> OpenShift Product Documentation
+ </summary><p>
+
+  * The OpenShift documentation<br>
+  https://docs.openshift.com/
+
+  * Red Hat OpenShift Documentation<br>
+  https://access.redhat.com/documentation/en-us/openshift_container_platform
+
+</p></details>
+
+
+<details><summary> Related Information
+ </summary><p>
 
   * AI/ML on Openshift:<br>
   https://www.openshift.com/learn/topics/ai-ml
 
   * A layered approach to container and Kubernetes security<br>
   https://www.redhat.com/en/resources/layered-approach-security-detail
-
-  * Red Hat Container Services
-  Container + Ecosystem Catalog:<br>
-  https://catalog.redhat.com/software/containers/explore
-
-  * Container Support Policy:<br>
-  https://access.redhat.com/articles/2726611
-
-  * Container Compatibility:<br>
-  https://access.redhat.com/support/policy/rhel-container-compatibility
-
-  * Universal Base Image: <br>
-  https://developers.redhat.com/products/rhel/ubi/
-
-  * UBI Life Cycle:<br>
-  https://access.redhat.com/support/policy/updates/ubi<br>
-  https://access.redhat.com/support/policy/updates/containertools
-
-  * Operatorhub:<br>
-  https://operatorhub.io/
-
-  * Open Data Hub:<br>
-  http://opendatahub.io/
 
 </p></details>
 
@@ -201,7 +203,7 @@ Container / Kubernetes / Microservices / OpenShift
 
 
 
-Ansible
+Automation / Ansible
 -------
 <details><summary> Introduction
  </summary><p>

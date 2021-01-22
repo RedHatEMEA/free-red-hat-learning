@@ -6,15 +6,18 @@ A collection of free of charge learning resources from Red Hat
 
 Overview
 --------
-Red Hat Learning Community
-https://learn.redhat.com/
+  * Red Hat Learning Community<br>
+  https://learn.redhat.com/
 
 
 
-OpenShift
+Container / Kubernetes / Microservices / OpenShift
 ---------
-<details><summary> Introduction
+<details><summary> Introduction OpenShift
  </summary><p>
+
+  * Every Red Hat Developer Subscription includes an individual OpenShift Subscription (free of charge)<br>
+  https://developers.redhat.com/
 
   * The OpenShift website
   https://www.openshift.com/
@@ -50,8 +53,8 @@ OpenShift
   * Developing Cloud-Native Applications with Microservices Architectures (DO0092)
   https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures
 
-  * Introduction to OpenShift Applications (DO101) **Limited until June 30, 2020**
-  https://www.redhat.com/en/engage/do101-introduction-openshift-s-202004060642
+  * Red Hat Agile Integration Technical Overview (DO0040
+  https://www.redhat.com/en/services/training/do040-red-hat-agile-integration-technical-overview
 
 </p></details>
 
@@ -59,8 +62,8 @@ OpenShift
 <details><summary> Labs
  </summary><p>
 
-  * There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda
-  https://learn.openshift.com/
+  * There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda<br>
+  https://learn.openshift.com/<br>
   https://www.katacoda.com/openshift
 
   * Red Hat offers OpenShift trial with OpenShift Online (for developers) and a free test drive for operators
@@ -70,13 +73,9 @@ OpenShift
   http://kubernetesbyexample.com/
 
   * Container and Cloud Native Roadshow Lab Deployment
-  OCP 4.1:
-  https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2-infra/tree/ocp-4.1
+    * OCP 4.1: https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2-infra/tree/ocp-4.1
 
-  OCP 4.3: https://github.com/redhat-cop/agnosticd/tree/development/ansible/roles/ocp4-workload-ccnrd
-
-  * We have the Container and Cloud Native Roadshow with Dev and Ops track as a continuing offering. This roadshow can be performed as a dedicated customer event, if the business case justifies.
-  https://www.redhat.com/en/events/containers-and-cloud-native-roadshow
+    * OCP 4.7: https://github.com/redhat-cop/agnosticd/tree/development/ansible/roles/ocp4-workload-ccnrd
 
 </p></details>
 
@@ -88,7 +87,7 @@ OpenShift
   https://docs.openshift.com/
 
   * Red Hat OpenShift Documentation
-  https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/
+  https://access.redhat.com/documentation/en-us/openshift_container_platform
 
 </p></details>
 
@@ -102,8 +101,8 @@ OpenShift
   * OpenShift Channel on YouTube with of stuff from OpenShift Commons
   https://www.youtube.com/user/rhopenshift
 
-  * [GER] OpenShift Installation auf Hetzner
-  https://m.twitch.tv/videos/671473695
+  * OpenShift 4 AWS IPI Installation Getting Started Guide
+  https://keithtenzer.com/2021/01/18/openshift-4-aws-ipi-installation-getting-started-guide/
 
 </p></details>
 
@@ -111,11 +110,17 @@ OpenShift
 <details><summary> Related Information
  </summary><p>
 
-  * Application Development in the Cloud Workshop
-  https://appdevcloudworkshop.gitlab.io/#/
+  * OpenShift Commons (Worldwide Community):
+  https://commons.openshift.org/
 
-  * 10 Layers of Container Security Whitepaper
-  https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper
+  * OpenShift Anwenderforum (German Speaking Community):
+  https://www.openshift-anwender.de/
+
+  * AI/ML on Openshift:
+  https://www.openshift.com/learn/topics/ai-ml
+
+  * A layered approach to container and Kubernetes security
+  https://www.redhat.com/en/resources/layered-approach-security-detail
 
   * Red Hat Container Services
   Container + Ecosystem Catalog:
@@ -128,7 +133,6 @@ OpenShift
   https://access.redhat.com/support/policy/rhel-container-compatibility
 
   * Universal Base Image: 
-  https://access.redhat.com/support/offerings/developer/
   https://developers.redhat.com/products/rhel/ubi/
 
   * UBI Life Cycle:
@@ -138,23 +142,8 @@ OpenShift
   * Operatorhub:
   https://operatorhub.io/
 
-  * AI/ML on Openshift:
-  https://www.openshift.com/learn/topics/ai-ml
-
   * Open Data Hub:
   http://opendatahub.io/
-
-  * Red Hat DevOps Culture and Practice Enablement:
-  https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement
-
-  * Red Hat Open Innovation Labs:
-  https://www.redhat.com/en/services/consulting/open-innovation-labs
-
-  * OpenShift Commons (Worldwide Community):
-  https://commons.openshift.org/
-
-  * OpenShift Anwenderforum (German Speaking Community):
-  https://www.openshift-anwender.de/
 
 </p></details>
 
@@ -176,27 +165,6 @@ OpenShift
 
   * Red Hat AMQ Streams (Apache Kafka):
   https://www.redhat.com/en/resources/amq-streams-datasheet
-
-</p></details>
-
-
-<details><summary>OpenShift Managed Options
- </summary><p>
-
-  * Openshift Online (shared infrastructure):
-  https://www.openshift.com/products/online/
-
-  * OpenShift Dedicated:
-  https://www.openshift.com/products/dedicated/
-
-  * Azure Red Hat OpenShift (with Microsoft):
-  https://www.openshift.com/products/azure-openshift
-
-  * Managed OpenShift by IBM:
-  https://www.ibm.com/cloud/openshift
-
-  * Red Hat Managed Integration (RHMI):
-  https://access.redhat.com/documentation/en-us/red_hat_managed_integration/1/html/getting_started/concept-explanation-getting-started
 
 </p></details>
 
@@ -444,6 +412,9 @@ Red Hat Satellite
 Misc
 --------
 <details><summary>Outdated</summary><p>
+
+Application Development in the Cloud Workshop
+https://appdevcloudworkshop.gitlab.io/#/
 
 Red Hat Developer Subscription includes OpenShift Container Development Kit
 https://developers.redhat.com/products/cdk/overview/

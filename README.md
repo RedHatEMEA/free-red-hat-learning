@@ -223,17 +223,26 @@ Automation / Ansible
 <details><summary> Labs
  </summary><p>
 
+ * Ansible Webinars<br>
+ https://www.ansible.com/resources/webinars-training
+ 
 </p></details>
 
 
 <details><summary> Documentation
  </summary><p>
 
+ * The Ansible documentation portal<br>
+  https://docs.ansible.com/
+
 </p></details>
 
 
 <details><summary> Blogs
  </summary><p>
+ 
+ * The Ansible blog<br>
+ https://www.ansible.com/blog
 
 </p></details>
 
@@ -241,6 +250,15 @@ Automation / Ansible
 <details><summary> Related Information
  </summary><p>
 
+ * Ansible Source-Code on Github<br>
+ https://github.com/ansible/ansible
+ 
+ * Ansible Collections on Github<br>
+ https://github.com/ansible-collections
+ 
+ * Ansible Community informations<br>
+ https://docs.ansible.com/community.html
+ 
 </p></details>
 
 

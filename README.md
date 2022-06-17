@@ -56,17 +56,26 @@ Container / Kubernetes / Microservices / OpenShift
 
   A complete list of free eBook offerings is available here: https://developers.redhat.com/ebooks
 
-  * Kubernetes Patterns - Reusable Elements for Designing Cloud-Native Applications<br>
-  https://developers.redhat.com/books/kubernetes-patterns
+  * OpenShift for Developers (Second Edition)<br>
+  https://developers.redhat.com/e-books/openshift-for-developers
 
-  * Microservices for Java Developers<br>
-  https://developers.redhat.com/books/microservices-java-developers-hands-introduction-frameworks-and-containers
+  * Getting GitOps: A practical platform with OpenShift, Argo CD, and Tekton<br>
+  https://developers.redhat.com/e-books/getting-gitops-practical-platform-openshift-argo-cd-and-tekton
 
-  * DevOps with OpenShift - Cloud Deployments Made Easy<br>
-  https://developers.redhat.com/books/devops-openshift-cloud-deployments-made-easy
+  * The Path to GitOps<br>
+  https://developers.redhat.com/e-books/path-gitops
 
-  * Knative Cookbook - Building Effective Serverless Applications with Kubernetes and OpenShift<br>
-  https://developers.redhat.com/books/knative-cookbook
+  * DevOps Culture and Practice with OpenShift<br>
+  https://developers.redhat.com/e-books/devops-culture-and-practice-openshift
+
+  * Quarkus for Spring Developers<br>
+  https://developers.redhat.com/e-books/quarkus-spring-developers
+
+  * Red Hat Universal Base Images (UBI)<br>
+  https://developers.redhat.com/e-books/red-hat-universal-base-images-ubi
+
+  * Modernizing Enterprise Java<br>
+  https://developers.redhat.com/e-books/modernizing-enterprise-java
 
 </p></details>
 

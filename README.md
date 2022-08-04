@@ -31,22 +31,14 @@ Container / Kubernetes / Microservices / OpenShift
 <details><summary> Labs
  </summary><p>
 
-  * There is an interactive learning portal for OpenShift with lots of courses including online examples hosted in Katacoda<br>
-  https://learn.openshift.com/<br>
-  https://www.katacoda.com/openshift
+  * OpenShift learning paths with lots of interactive lessons<br>
+  https://developers.redhat.com/learn/openshift
 
   * Red Hat offers OpenShift trial with OpenShift Online (for developers) and a free test drive for operators<br>
-  https://www.openshift.com/trial/
+  https://www.redhat.com/en/technologies/cloud-computing/openshift/try-it
 
   * Kubernetes by Example<br>
-  http://kubernetesbyexample.com/
-
-  * Container and Cloud Native Roadshow Lab Deployment
-    * OCP 4.1:<br>
-    https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2-infra/tree/ocp-4.1
-
-    * OCP 4.7:<br>
-    https://github.com/redhat-cop/agnosticd/tree/development/ansible/roles/ocp4-workload-ccnrd
+  https://kubebyexample.com/
 
 </p></details>
 
@@ -56,17 +48,26 @@ Container / Kubernetes / Microservices / OpenShift
 
   A complete list of free eBook offerings is available here: https://developers.redhat.com/ebooks
 
-  * Kubernetes Patterns - Reusable Elements for Designing Cloud-Native Applications<br>
-  https://developers.redhat.com/books/kubernetes-patterns
+  * OpenShift for Developers (Second Edition)<br>
+  https://developers.redhat.com/e-books/openshift-for-developers
 
-  * Microservices for Java Developers<br>
-  https://developers.redhat.com/books/microservices-java-developers-hands-introduction-frameworks-and-containers
+  * Getting GitOps: A practical platform with OpenShift, Argo CD, and Tekton<br>
+  https://developers.redhat.com/e-books/getting-gitops-practical-platform-openshift-argo-cd-and-tekton
 
-  * DevOps with OpenShift - Cloud Deployments Made Easy<br>
-  https://developers.redhat.com/books/devops-openshift-cloud-deployments-made-easy
+  * The Path to GitOps<br>
+  https://developers.redhat.com/e-books/path-gitops
 
-  * Knative Cookbook - Building Effective Serverless Applications with Kubernetes and OpenShift<br>
-  https://developers.redhat.com/books/knative-cookbook
+  * DevOps Culture and Practice with OpenShift<br>
+  https://developers.redhat.com/e-books/devops-culture-and-practice-openshift
+
+  * Quarkus for Spring Developers<br>
+  https://developers.redhat.com/e-books/quarkus-spring-developers
+
+  * Red Hat Universal Base Images (UBI)<br>
+  https://developers.redhat.com/e-books/red-hat-universal-base-images-ubi
+
+  * Modernizing Enterprise Java<br>
+  https://developers.redhat.com/e-books/modernizing-enterprise-java
 
 </p></details>
 
@@ -74,14 +75,11 @@ Container / Kubernetes / Microservices / OpenShift
 <details><summary> OpenShift Blogs
  </summary><p>
 
-  * OpenShift Blog:<br>
-  https://blog.openshift.com/
+  * Hybrid cloud blog:<br>
+  https://cloud.redhat.com/blog
 
   * OpenShift Channel on YouTube with of stuff from OpenShift Commons<br>
   https://www.youtube.com/user/rhopenshift
-
-  * OpenShift 4 AWS IPI Installation Getting Started Guide<br>
-  https://keithtenzer.com/2021/01/18/openshift-4-aws-ipi-installation-getting-started-guide/
 
 </p></details>
 
@@ -144,10 +142,10 @@ Container / Kubernetes / Microservices / OpenShift
  </summary><p>
 
   * AI/ML on Openshift:<br>
-  https://www.openshift.com/learn/topics/ai-ml
+  https://www.redhat.com/en/technologies/cloud-computing/openshift/aiml
 
   * A layered approach to container and Kubernetes security<br>
-  https://www.redhat.com/en/resources/layered-approach-security-detail
+  https://www.redhat.com/en/resources/layered-approach-container-kubernetes-security-whitepaper
 
 </p></details>
 
@@ -183,21 +181,17 @@ Container / Kubernetes / Microservices / OpenShift
   https://developers.redhat.com/topics/serverless-architecture/<br>
   https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless
 
-  * OpenShift Reference Architectures:<br>
-  https://www.openshift.com/learn/resources/reference-architectures
-
-  * OpenShift Container Storage:<br>
-  https://www.openshift.com/products/container-storage/<br>
-  https://blog.openshift.com/introducing-openshift-container-storage-4-2/
+  * OpenShift Data Foundation (formerly Container Storage):<br>
+  https://www.redhat.com/en/technologies/cloud-computing/openshift-data-foundation<br>
 
   * Red Hat CodeReady Workstations (Eclipse Che, Web-IDE on OpenShift):<br>
   https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces
 
-  * Red Hat CodeReady Containers (All-in-one OpenShift):<br>
-  https://developers.redhat.com/products/codeready-containers
+  * Red Hat OpenShift Local (formerly Red Hat CodeReady Containers):<br>
+  https://developers.redhat.com/products/openshift-local/overview
 
-  * Application Migration Toolkit:<br>
-  https://developers.redhat.com/products/rhamt/overview
+  * Migration Toolkit for Applications:<br>
+  https://developers.redhat.com/products/mta/overview
 
 </p></details>
 
